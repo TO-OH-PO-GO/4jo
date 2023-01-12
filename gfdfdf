@@ -1,0 +1,10 @@
+echo "# 4jo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TO-OH-PO-GO/4jo.git
+git push -u origin main
+
+
+"https://github.com/BBoBBi-MoM/django_project.git'
